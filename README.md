@@ -12,7 +12,7 @@ Topics from the lecture:
 
 * 7 CRUD Actions [OK]
 
-* Links and Route Names
+* Links and Route Names [OK]
 
 * Partials
 
