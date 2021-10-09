@@ -2,15 +2,15 @@
 
 Topics from the lecture:
 
-* Model generator
+* Model generator [OK]
 
-* Migration generator
+* Migration generator [OK]
 
-* Rails DB Tasks
+* Rails DB Tasks [OK]
 
-* Rails Console
+* Rails Console [OK]
 
-* 7 CRUD Actions
+* 7 CRUD Actions [OK]
 
 * Links and Route Names
 
