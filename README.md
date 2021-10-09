@@ -1,24 +1,21 @@
-# README
+# RAILS CRUD
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Topics from the lecture:
 
-Things you may want to cover:
+* Model generator
 
-* Ruby version
+* Migration generator
 
-* System dependencies
+* Rails DB Tasks
 
-* Configuration
+* Rails Console
 
-* Database creation
+* 7 CRUD Actions
 
-* Database initialization
+* Links and Route Names
 
-* How to run the test suite
+* Partials
 
-* Services (job queues, cache servers, search engines, etc.)
+* Controller Filters
 
-* Deployment instructions
-
-* ...
+* (Front-end) Bootstrap & Simple Form
